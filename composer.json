@@ -1,0 +1,10 @@
+{
+    "name": "masterpass/masterpasspspsdk",
+    "version":"1.0.0",
+    "description": "PHP Masterpass PSP SDK ",
+	"require": {
+		"php": ">=5.5.0",
+		"masterpass/mpasscoresdk":"2.0.0",
+		"masterpass/masterpasspspsdk":"1.0.0"
+	}
+}
