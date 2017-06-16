@@ -2,6 +2,9 @@
 
 PHP Masterpass PSP(Payment Service Provider) SDK for use with PHP Core SDK on MasterCard Developer Zone (https://developer.mastercard.com) 
 
+PSP SDK is used to support merchants that are not PCI compliant and rely on 3rd parties to make payment.
+Non-PCI compliant merchants will be required to set a trusted PSP on their profile. 
+
 Pre-Requisites for using PHP Masterpass PSP SDK :
 
  *  PHP 5.5 or Higher
