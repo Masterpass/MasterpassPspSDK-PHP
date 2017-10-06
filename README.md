@@ -21,7 +21,7 @@ Pre-Requisites for using PHP Masterpass PSP SDK :
  {
   "require": {
   "masterpass/mpasscoresdk":"2.0.0"
-  "masterpass/masterpasspspsdk":"1.0.0"
+  "masterpass/masterpasspspsdk":"1.1.0"
    }
  }
 ```
