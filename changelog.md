@@ -1,5 +1,13 @@
 # Change Log
 
+
+## Version 1.2.0
+
+_2016-01-24_
+
+### Feature
+ *  Added CardType field in card object model for psp-paymentdata api. This field is available only for combo card transactions.
+ 
 ## Version 1.1.0
 
 _2016-10-06_
