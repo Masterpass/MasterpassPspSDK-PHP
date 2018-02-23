@@ -16,12 +16,11 @@ Pre-Requisites for using PHP Masterpass PSP SDK :
  
  If you do not have composer installed you can download it from https://getcomposer.org/
  
- To download these phar as composer dependency, put a file named composer.json at the root of your project, containing as your project dependencies:
+ To download the phar as composer dependency, put a file named composer.json at the root of your project, containing as your project dependencies:
  ```
  {
   "require": {
-  "masterpass/mpasscoresdk":"2.0.0"
-  "masterpass/masterpasspspsdk":"1.1.0"
+  "masterpass/masterpasspspsdk":"1.2.0"
    }
  }
 ```
