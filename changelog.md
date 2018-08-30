@@ -1,6 +1,12 @@
 # Change Log
 
+## Version 1.2.0
 
+_2018-08-24_
+
+### Feature
+ *  Added external data field for psp-paymentdata api.
+ 
 ## Version 1.2.0
 
 _2018-01-24_
